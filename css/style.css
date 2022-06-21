@@ -1,0 +1,217 @@
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../fonts/OpenSans-Bold.ttf');
+    src: url('../fonts/OpenSans-Regular.ttf');
+    font-style: normal;
+    font-display: swap;
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', Helvetica, sans-serif;
+}
+
+ul {
+    list-style: none;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0px;
+}
+tr {
+    border-collapse: collapse;
+}
+
+a {
+    display: inline-block;
+    text-decoration: none;
+}
+
+img {
+    display: inline-block;
+    vertical-align: bottom;
+}
+
+sup {
+    font-size: 0.65em;    
+}
+
+.main {
+    width: 100%;
+}
+
+.wrapper {
+    width: 600px;
+}
+
+.header img {
+    background-color: #333333;
+}
+
+.head-shaddow {
+    background-color: #f5f9fb;
+    vertical-align: top;
+}
+
+.user {
+    background-image: url('https://raw.githubusercontent.com/shytuleva24/hastag/master/img/hastag.jpg');
+    background-color: #f5f9fb;
+    vertical-align: top;
+}
+
+.user h1 {
+    padding-top: 20px;
+    padding-bottom: 15px;
+    color: #333333;
+    font-size: 30px;
+    letter-spacing: 2.3px;
+    line-height: 21px;
+    font-weight: 700;
+}
+
+.application {
+    width: 80% !important;
+    color: #748098;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+}
+
+
+.user h2 {
+    padding-top: 32px;
+    padding-bottom: 20px;
+    color: #169ab5;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    line-height: 21px;
+}
+
+.user-info {
+    padding-left: 32px;
+}
+
+.user-info li,
+.user-info a {
+    color: #748098;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 23px; 
+    text-align: left;
+}
+
+.user-info b {
+    color: #333333;
+    text-align: left;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+
+.registration-errors {
+    padding-top: 11px;
+    padding-bottom: 15px;
+    color: #748098;
+    font-family: "Arial", Helvetica, sans-serif;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 21px;
+}
+
+.call {
+    background-color: #f5f9fb;
+}
+
+.top {
+    vertical-align: top;
+}
+
+.call h2 {
+    padding: 25px;  
+    background-image: url('https://raw.githubusercontent.com/shytuleva24/hastag/master/img/call.jpg');  
+    background-color: #1599b5;
+    font-size: 24px;
+    letter-spacing: 1px;
+    line-height: 30px;
+    color: #f6fafb;
+    font-weight: 700;
+}
+
+.px {
+    background-image: url('https://raw.githubusercontent.com/shytuleva24/hastag/master/img/px.jpg');
+    background-repeat: repeat;
+    background-color: #ffffff;
+}
+
+.start-soon h2 {
+    padding-top: 17px;
+    font-size: 30px;
+    letter-spacing: 2.1px;    
+    color: #333333;
+    font-weight: 700;
+}
+
+.courses {
+    width: 92% !important;
+    margin-top: 17.6px;    
+    background-color: #eaeaea;
+    background-image: url('https://raw.githubusercontent.com/shytuleva24/hastag/master/img/cources.jpg');
+    background-repeat: no-repeat;
+}
+
+.courses .main {
+    width: 100% !important;
+}
+
+.courses td {
+    height: 72px;
+}
+
+.course-name {
+    width: 59%;    
+    letter-spacing: 1px;
+    font-size: 19px;
+    line-height: 22px;
+    color: #333333;
+    font-weight: 700;
+}
+
+.course-name p {
+    width: 100%;
+    text-transform: uppercase;
+}
+
+
+.link-course a {
+    font-size: 16px;
+    letter-spacing: 1px;
+    color: #169ab5;
+    font-weight: 600;
+    /* padding-top: 25px;
+    padding-bottom: 25px; */
+}
+
+
+.social {
+    background-color: #ffffff;
+}
+
+.social .text {
+    padding-top: 22px; 
+    letter-spacing: 1px;   
+    font-size: 24px;
+    line-height: 45px;
+    color: #333333;
+    font-weight: 700;
+}
+
+.social a {
+    padding-top: 10px;
+    padding-right: 8px;
+    padding-left: 8px;
+}
+

@@ -1,7 +1,8 @@
 @font-face {
     font-family: 'Open Sans';
-    src: url('../fonts/OpenSans-Bold.ttf');
-    src: url('../fonts/OpenSans-Regular.ttf');
+    src: url('https://github.com/hashtag-academy/hashtag-newsletter/blob/master/fonts/OpenSans-Bold.ttf?raw=true');
+    src: url('https://github.com/hashtag-academy/hashtag-newsletter/blob/master/fonts/OpenSans-Italic.ttf?raw=true');
+    src: url('https://github.com/hashtag-academy/hashtag-newsletter/blob/master/fonts/OpenSans-Regular.ttf?raw=true');
     font-style: normal;
     font-display: swap;
 }
@@ -57,7 +58,7 @@ sup {
 }
 
 .user {
-    background-image: url('https://raw.githubusercontent.com/shytuleva24/hastag/master/img/hastag.jpg');
+    background-image: url('https://raw.githubusercontent.com/hashtag-academy/hashtag-newsletter/master/img/hastag.jpg');
     background-color: #f5f9fb;
     vertical-align: top;
 }
@@ -132,7 +133,7 @@ sup {
 
 .call h2 {
     padding: 25px;  
-    background-image: url('https://raw.githubusercontent.com/shytuleva24/hastag/master/img/call.jpg');  
+    background-image: url('https://raw.githubusercontent.com/hashtag-academy/hashtag-newsletter/master/img/call.jpg');  
     background-color: #1599b5;
     font-size: 24px;
     letter-spacing: 1px;
@@ -142,7 +143,7 @@ sup {
 }
 
 .px {
-    background-image: url('https://raw.githubusercontent.com/shytuleva24/hastag/master/img/px.jpg');
+    background-image: url('https://raw.githubusercontent.com/hashtag-academy/hashtag-newsletter/master/img/px.jpg');
     background-repeat: repeat;
     background-color: #ffffff;
 }
@@ -159,7 +160,7 @@ sup {
     width: 92% !important;
     margin-top: 17.6px;    
     background-color: #eaeaea;
-    background-image: url('https://raw.githubusercontent.com/shytuleva24/hastag/master/img/cources.jpg');
+    background-image: url('https://raw.githubusercontent.com/hashtag-academy/hashtag-newsletter/master/img/cources.jpg');
     background-repeat: no-repeat;
 }
 
